@@ -3,9 +3,9 @@
 # Discord IDs
 # Replace values with your own.
 MUDAE_ID = 432610292342587392  # ID of Mudae bot
-CHANNEL_ID = 432610292342587392  # ID of claiming channel
-SERVER_ID = 432610292342587392  # ID of Discord server
-USER_ID = 432610292342587392  # ID of main user
+CHANNEL_ID = 1302848812586369065  # ID of claiming channel
+SERVER_ID = 1009266255154389072  # ID of Discord server
+USER_ID = 530898938232963119  # ID of main user
 
 # Bot token
 BOT_TOKEN = ""
@@ -13,7 +13,7 @@ BOT_TOKEN = ""
 # Command prefix for Mudae and roll command to use.
 # Default setting below does $m
 COMMAND_PREFIX = "$"
-ROLL_COMMAND = "m"
+ROLL_COMMAND = "wa"
 
 #  User login info.
 #  This is not sent to any external server, but only uses to login to browser Discord.
